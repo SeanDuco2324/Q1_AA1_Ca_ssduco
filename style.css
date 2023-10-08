@@ -1,0 +1,162 @@
+*{
+    padding:0px;
+    margin: 5px;
+}
+.navbar{
+    padding: 5vh;
+    border: 2px solid black;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    background-image: url(Black\ and\ Yellow\ Background.jpg) ;
+}
+
+
+.navbar .links{
+    display: inline;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    float: right;
+    border: 2px solid black;
+    font-family: fantasy;
+    
+    }
+
+    .rounded{
+        border-radius: 10px;
+    }
+   .logo{
+    border: 3px solid black;
+    padding: 5px;
+    float: left;
+    text-align: center;
+    border-radius: 70%;
+    background: url(Venom.jpg)  no-repeat;
+    background-size: 50px;
+    width: 35px;
+    height: 35px;
+   }
+.background{
+    background-image: url(Bigger\ Background.jpg);
+    background-repeat: no-repeat;
+    background-position:unset;
+    background-size: cover;
+    
+}
+.Header{
+    display: inline;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(224, 6, 6);
+}
+.Header2{
+    display: inline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgba(11, 32, 219, 0.747)
+}
+.Paragraph{
+    color: rgba(17, 151, 13, 0.801);
+}
+.Gallery_Link{
+    border-radius: 50px;
+    border: 3px solid black;
+    color: black;
+    background-color: yellow;
+}
+.footer {
+  position: fixed;
+  
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(250, 185, 6);
+  color: black;
+  text-align: center;
+}
+.Copyright
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    text-align: left;
+    float: left;
+    margin-left: 2vh;
+    padding-top:  2vh;
+
+    font-size: medium;
+
+    border: 0.30vh solid black;
+        padding: 1.5vh;
+        border-radius: 1.5vh;
+}
+  .First{
+    background: url(Walking_Through_Pool.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 40vh;
+    width: 40vh;
+    background-size: contain;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+  }
+  .Second{
+    background: url(Start_Of_22-23SY);
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 40vh;
+    width: 40vh;
+    background-size: contain;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+  }
+  .Third{
+    background: url(Hawkeye);
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 40vh;
+    width: 40vh;
+    background-size: contain;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+  }
+  .Fourth{
+    background: url(Pre-enrollment_Stuff.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 40vh;
+    width: 40vh;
+    background-size: contain;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+  }
+  .Fifth{
+        background: url(Recognition);
+        display: inline-block;
+        background-repeat: no-repeat;
+        height: 40vh;
+        width: 40vh;
+        background-size: contain;
+        margin-top: 1vh;
+        margin-bottom: 1vh;
+        margin-left: 1vh;
+        margin-right: 1vh;
+  }
+  .Sixth{
+    background: url(Calcium_Lab_WiththeBois);
+        display: inline-block;
+        background-repeat: no-repeat;
+        height: 40vh;
+        width: 40vh;
+        background-size: contain;
+        margin-top: 1vh;
+        margin-bottom: 1vh;
+        margin-left: 1vh;
+        margin-right: 1vh;
+  }
+  
